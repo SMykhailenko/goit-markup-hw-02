@@ -4,17 +4,13 @@
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  font-weight: 1.5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 /* Navigation colours */
 .helper-components {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
-  font-size: 16px;
-  font-weight: 1.5;
-  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .helper-components:hover,
@@ -33,13 +29,10 @@
 }
 /* Main frame */
 .main-text {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
-  letter-spacing: 0.02em;
   color: #ffffff;
   background: #2e2f42;
 }
@@ -47,8 +40,6 @@
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
   display: flex;
   align-items: center;
   letter-spacing: 0.04em;
@@ -62,32 +53,20 @@
 }
 /* Our focus */
 .title {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .text {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
   color: #434455;
 }
 /* Titles over photos */
 .main-title {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
-  letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
 }
