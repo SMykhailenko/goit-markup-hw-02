@@ -105,7 +105,10 @@
 }
 /* team background */
 .team-background {
-  background: #ffffff;
+  background: #f4f4fd;
+}
+.photo-back {
+  background-color: #ffffff;
 }
 /* portfolio cloring */
 .radio-btn {
