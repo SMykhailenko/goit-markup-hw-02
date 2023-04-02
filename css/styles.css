@@ -18,6 +18,9 @@
   color: #434455;
   background-color: #ffffff;
 }
+.help-hat {
+  font-style: normal;
+}
 /* Navigation colours */
 .helper-components {
   font-weight: 500;
@@ -44,8 +47,9 @@
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
-  color: #ffffff;
-  background: #2e2f42;
+  color: #ffffff;}
+  .main-phrase{
+  background: #2e2f42;}
 }
 /* h2 text */
 .submain-text {
@@ -54,6 +58,7 @@
   line-height: 1.11;
   text-align: center;
   text-transform: capitalize;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .button {
@@ -88,13 +93,14 @@
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
+  letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
 }
 /* team background */
-.team-color {
-  background: #ffffff;
+.team-background {
+  background: #f4f4fd;
 }
 /* portfolio cloring */
 .radio-btn {
